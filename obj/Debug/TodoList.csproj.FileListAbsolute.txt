@@ -1,0 +1,6 @@
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\bin\Debug\TodoList.exe.config
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\bin\Debug\TodoList.exe
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\bin\Debug\TodoList.pdb
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\obj\Debug\TodoList.exe
+C:\Users\Administrador.WINDOWS\Desktop\TodoList\TodoList\obj\Debug\TodoList.pdb
